@@ -1,6 +1,6 @@
 # Emergent Mind: An Ant Colony Simulation
 
-![Simulation Demo](demo.mp4) 
+![Simulation Demo]([demo.mp4](https://github.com/user-attachments/assets/011e7179-7745-44b9-bb3b-c1673891b966)) 
 
 This project is not just another ant colony optimization algorithm. It is a scientific simulation built in Python and Pygame to explore a fundamental hypothesis: **What if intelligence is not a product of complex computation, but an emergent property of simple physical laws interacting with an environment?**
 
